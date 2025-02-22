@@ -1,1 +1,1 @@
-# Synthetic Data  Tabular Data
+# Synthetic Data generation using SDV (Tabular Data)
