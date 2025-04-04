@@ -4,7 +4,7 @@
 ## Overview
 ------------
 
-This project aims to generate synthetic data for the Bovine Tuberculosis open dataset. It is obtained from Data.gov.ie
+This project aims to generate synthetic data for the Bovine Tuberculosis open dataset. It is obtained from Data.Gov.ie https://data.gov.ie/dataset/daa01-bovine-tuberculosis
 
 ## Getting Started
 -------------------
