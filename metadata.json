@@ -1,0 +1,37 @@
+{
+    "tables": {
+        "table": {
+            "columns": {
+                "DAA01C01": {
+                    "sdtype": "numerical"
+                },
+                "DAA01C02": {
+                    "sdtype": "numerical"
+                },
+                "DAA01C03": {
+                    "sdtype": "numerical"
+                },
+                "DAA01C04": {
+                    "sdtype": "numerical"
+                },
+                "DAA01C05": {
+                    "sdtype": "numerical"
+                },
+                "DAA01C06": {
+                    "sdtype": "numerical"
+                },
+                "DAA01C07": {
+                    "sdtype": "numerical"
+                },
+                "DAA01C08": {
+                    "sdtype": "numerical"
+                },
+                "DAA01C09": {
+                    "sdtype": "numerical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
